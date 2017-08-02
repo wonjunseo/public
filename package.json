@@ -1,0 +1,36 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition == Chapter 2: JavaScript Development Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonjunseo/wonjun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonjunseo/wonjun/issues"
+  },
+  "homepage": "https://github.com/wonjunseo/wonjun#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "core-js": "^2.4.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^4.0.0"
+  }
+}
